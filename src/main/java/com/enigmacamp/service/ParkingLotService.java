@@ -1,6 +1,5 @@
 package com.enigmacamp.service;
 
-import com.enigmacamp.entity.ParkingLot;
 
 public interface ParkingLotService {
     void parkVehicle(String regNo, String color, String type);
